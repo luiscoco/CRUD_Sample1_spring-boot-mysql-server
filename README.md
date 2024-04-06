@@ -1,5 +1,7 @@
 # Spring Boot JPA MySQL - Building Rest CRUD API example
 
+For more information about this example visit this web page: https://www.bezkoder.com/spring-boot-angular-17-mysql/
+
 ## How to run the Server Spring Boot application
 ```
 mvn spring-boot:run
