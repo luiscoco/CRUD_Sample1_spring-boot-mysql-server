@@ -87,6 +87,31 @@ We run this query for testing the database
 
 Now we have to creaete the **testdb** database for this sample 
 
+We first open a new Query tab for this server
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/ceb6813a-e76b-4ab6-9e08-7b5767ac40b0)
+
+We create the database running this query
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/cc80e28f-5590-4915-9ffd-c18f23228c29)
+
+We also have to create the **tutorials** table
+
+```sql
+USE testdb
+```
+
+```sql
+CREATE TABLE tutorials(
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    description TEXT,
+    published BOOLEAN,
+    createdAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+```
+
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
 ## 3. Source Code explantaion
