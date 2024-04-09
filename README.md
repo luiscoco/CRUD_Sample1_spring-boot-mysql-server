@@ -37,7 +37,7 @@ We configure MySQL during the installation, we leave all the default values:
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/3b07f023-210b-4849-8204-518d91b0e547)
 
-We set the password
+We set the **password: Luiscoco123456@**
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9bbcdcb7-8644-4c0e-8260-da4f0d3d9ca2)
 
@@ -49,6 +49,15 @@ Finally we apply the changes
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/f9b01fa7-44f3-4258-9c72-2fc5ba26d400)
 
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9a3f593b-7d63-4977-9693-55dd50908a41)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/c32f2d60-171a-49aa-98d1-64ce2831f3c2)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b0b0c41a-51e0-4c14-8902-7d9a269fcdec)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/f38879b1-233c-40f6-8f01-b8705b9c910e)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b8cf50ee-101b-471e-9318-cf20c54f5bdc)
 
 ## 3. Create the database
 
