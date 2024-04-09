@@ -73,6 +73,12 @@ Finally we apply the changes
 
 ## 3. Create the database
 
+We execute MySQL Workbench and we login in the root account
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b7309da5-07da-42e9-9602-b3e0bac83259)
+
+
+
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
 ## 3. Source Code explantaion
