@@ -271,5 +271,22 @@ ng serve --port 8081
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/d883619d-e13f-4939-a810-8ed2b61ad93d)
 
+We verify the angular application running
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/a2b7ff2d-0e30-402a-b17b-c667169bb77c)
+
+We select the **Add** menu option and we add a new item to the list
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/ed4c7e22-18fc-4ed3-8770-c2cef9800e2f)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/021ee436-ad0c-42e5-81e3-fcd2a559f5e9)
+
+We select the **Tutorials** menu option and we confirm the Tutorial list now has the new created item
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/90cff7ad-cca4-4259-87b4-e29e6573830d)
+
+If we open MySQL Workbench we can also see the new item in the database testdb and table tutorials
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/510ebc64-eb6f-4ce2-8fdf-a504d8dc66ba)
 
 
