@@ -2,12 +2,7 @@
 
 For more information about this example visit this web page: https://www.bezkoder.com/spring-boot-angular-17-mysql/
 
-## 1. How to run the Server Spring Boot application
-```
-mvn spring-boot:run
-```
-
-## 2. Install MySQL
+## 1. Install MySQL
 
 https://dev.mysql.com/downloads/installer/
 
@@ -71,7 +66,7 @@ Finally we apply the changes
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b8f62bd7-5c95-4e54-9278-c788562bebf8)
 
-## 3. Create the database
+## 2. Create the database
 
 https://www.w3schools.com/mysql/
 
@@ -116,9 +111,9 @@ CREATE TABLE tutorials(
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
-## 4. Source Code explantaion
+## 3. Source Code explantaion
 
-### 4.1. Dependencies and libraries
+### 3.1. Dependencies and libraries
 
 The dependencies included in this project are:
 
@@ -217,7 +212,7 @@ This is the whole pom.xml file:
 </project>
 ```
 
-### 4.2. Database connection string and other properties 
+### 3.2. Database connection string and other properties 
 
 Regarding the database properties and connections string we set these values in the **application.properties** file:
 
@@ -231,3 +226,50 @@ spring.datasource.password= 1234
 spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQLDialect
 spring.jpa.hibernate.ddl-auto= update
 ```
+
+## 4. How to run the Server SpringBoot application
+
+### 4.1. We first run the Server SpringBoot application
+
+Run MySQL Workbench and enter in the database testdb
+
+```
+mvn spring-boot:run
+```
+
+or 
+
+```
+mvn spring-boot:run -X
+```
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/1151909d-7183-4935-bab9-1569d7541beb)
+
+We confirm the SpringBott server application is running in Tomcat in port 8080
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9f47db9f-ecfe-496e-8cee-db608e75d6db)
+
+### 4.2. We now run the Client Angular front-end application
+
+We install the application dependencies with this command:
+
+```
+npm i
+```
+
+or 
+
+```
+npm install
+```
+
+Then we run the angular application in port 8081
+
+```
+ng serve --port 8081
+```
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/d883619d-e13f-4939-a810-8ed2b61ad93d)
+
+
+
