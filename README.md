@@ -221,10 +221,18 @@ Regarding the database properties and connections string we set these values in 
 ```
 spring.datasource.url= jdbc:mysql://localhost:3306/testdb?useSSL=false
 spring.datasource.username= root
-spring.datasource.password= 1234
+spring.datasource.password= Luiscoco123456@
 
 spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQLDialect
 spring.jpa.hibernate.ddl-auto= update
+```
+
+**IMPORTANT NOTE**
+
+Do not forget to set in the application.properties file the MySQL password as defined during installation
+
+```
+spring.datasource.password= Luiscoco123456@
 ```
 
 ### 3.3. Project folders and files structure
