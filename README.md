@@ -7,7 +7,50 @@ For more information about this example visit this web page: https://www.bezkode
 mvn spring-boot:run
 ```
 
-## 2. Install MySQL and create the database
+## 2. Install MySQL
+
+https://dev.mysql.com/downloads/installer/
+
+We download the installer file
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/361e37ff-1a76-45c7-bc01-19d874849385)
+
+We execute the installer file
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/7991538f-341f-4386-992e-3964a2a68b40)
+
+We select the **Full** installation
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/5a7c45a2-09ea-4ef7-90f2-6473ac74b658)
+
+We confirm the products to be installed
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/14642e4b-f74e-4831-a254-6cd5b5520ce6)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/6d61cfc7-d23c-4b0d-be06-b91e3f09b0ab)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/4c7af62a-e2c2-42cf-9c2d-99502a092b04)
+
+We configure MySQL during the installation, we leave all the default values:
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/25d24878-6fe1-4f31-a529-a04ddcb7eb6a)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/3b07f023-210b-4849-8204-518d91b0e547)
+
+We set the password
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9bbcdcb7-8644-4c0e-8260-da4f0d3d9ca2)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9ca6a26a-aa5e-4906-b993-5567c906fda9)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/9f0e3ef7-8bf5-4c21-80f9-c69748554a4c)
+
+Finally we apply the changes
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/f9b01fa7-44f3-4258-9c72-2fc5ba26d400)
+
+
+## 3. Create the database
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
