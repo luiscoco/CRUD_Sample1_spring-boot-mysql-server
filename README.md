@@ -17,10 +17,10 @@ mvn spring-boot:run
 
 The dependencies included in this project are:
 
-- spring-boot-starter-data-jpa
-- spring-boot-starter-web
-- mysql-connector-j
-- spring-boot-starter-test
+- **spring-boot-starter-data-jpa**
+- **spring-boot-starter-web**
+- **mysql-connector-j**
+- **spring-boot-starter-test**
 
 This sample is configured for Java 21, hence do not forget to set the JAVA_HOME and/or PATH environmental variable in your local desktop to run this application 
 
