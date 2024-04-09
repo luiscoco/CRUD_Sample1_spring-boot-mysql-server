@@ -2,18 +2,18 @@
 
 For more information about this example visit this web page: https://www.bezkoder.com/spring-boot-angular-17-mysql/
 
-## How to run the Server Spring Boot application
+## 1. How to run the Server Spring Boot application
 ```
 mvn spring-boot:run
 ```
 
-## Create MySQL database
+## 2. Install MySQL and create the database
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
-## Source Code explantaion
+## 3. Source Code explantaion
 
-### Dependencies and libraries
+### 3.1. Dependencies and libraries
 
 The dependencies included in this project are:
 
@@ -111,6 +111,8 @@ This is the whole pom.xml file:
 
 </project>
 ```
+
+### 3.2. Database connection string and other properties 
 
 Regarding the database properties and connections string we set these values in the **application.properties** file:
 
