@@ -526,6 +526,8 @@ We confirm the SpringBott server application is running in Tomcat in port 8080
 
 ### 4.2. We now run the Client Angular front-end application
 
+The Client app source code is stored in this github repo: https://github.com/luiscoco/CRUD_Sample1_angular-17-client
+
 We install the application dependencies with this command:
 
 ```
