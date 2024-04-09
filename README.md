@@ -79,7 +79,11 @@ For the user **root** we remenber the password **Luiscoco123456@** we set during
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b7309da5-07da-42e9-9602-b3e0bac83259)
 
+We run this query for testing the database
 
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/97e9014c-1423-4212-8731-fd6f26b54ab3)
+
+Now we have to creaete the **testdb** database for this sample 
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
