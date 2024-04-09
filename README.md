@@ -40,8 +40,8 @@ We also specify the Java version in the pom.xml file:
 
 ```
 <properties>
-		<java.version>21</java.version>
-	</properties>
+	<java.version>21</java.version>
+</properties>
 ```
 
 This is the whole pom.xml file:
