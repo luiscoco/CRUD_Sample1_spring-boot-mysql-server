@@ -1,4 +1,4 @@
-# Spring Boot JPA MySQL - Building Rest CRUD API example
+# Spring Boot JPA MySQL - Building Rest CRUD
 
 For more information about this example visit this web page: https://www.bezkoder.com/spring-boot-angular-17-mysql/
 
