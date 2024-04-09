@@ -59,6 +59,10 @@ Finally we apply the changes
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b8cf50ee-101b-471e-9318-cf20c54f5bdc)
 
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/a5413152-6c40-496f-b0b3-5ed5ef5d42e9)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/afa43d26-65bc-45f0-a69b-f7d94aca776a)
+
 ## 3. Create the database
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
