@@ -112,11 +112,13 @@ CREATE TABLE tutorials(
 );
 ```
 
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/d8656a4e-9a33-4f07-be1f-b3848bc59d1b)
+
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/06a7fe8d-79bf-4638-b1f3-72488dc0a931)
 
-## 3. Source Code explantaion
+## 4. Source Code explantaion
 
-### 3.1. Dependencies and libraries
+### 4.1. Dependencies and libraries
 
 The dependencies included in this project are:
 
@@ -215,7 +217,7 @@ This is the whole pom.xml file:
 </project>
 ```
 
-### 3.2. Database connection string and other properties 
+### 4.2. Database connection string and other properties 
 
 Regarding the database properties and connections string we set these values in the **application.properties** file:
 
