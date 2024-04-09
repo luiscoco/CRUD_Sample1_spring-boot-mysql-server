@@ -73,7 +73,9 @@ Finally we apply the changes
 
 ## 3. Create the database
 
-We execute MySQL Workbench and we login in the root account
+We execute MySQL Workbench and we login in the root account.
+
+For the user **root** we remenber the password **Luiscoco123456@** we set during the MySQL installation:
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/b7309da5-07da-42e9-9602-b3e0bac83259)
 
