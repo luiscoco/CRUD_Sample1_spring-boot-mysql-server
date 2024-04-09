@@ -73,6 +73,8 @@ Finally we apply the changes
 
 ## 3. Create the database
 
+https://www.w3schools.com/mysql/
+
 We execute MySQL Workbench and we login in the root account.
 
 For the user **root** we remenber the password **Luiscoco123456@** we set during the MySQL installation:
