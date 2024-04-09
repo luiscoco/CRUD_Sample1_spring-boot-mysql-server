@@ -289,4 +289,9 @@ If we open MySQL Workbench we can also see the new item in the database testdb a
 
 ![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/510ebc64-eb6f-4ce2-8fdf-a504d8dc66ba)
 
+We can also edit the created item pressing on the item and then in the **Edit** button
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/6ac779d9-84b3-4c4e-8950-487e07119f5e)
+
+![image](https://github.com/luiscoco/CRUD_Sample1_spring-boot-mysql-server/assets/32194879/0f6e74e0-a33b-431d-b705-dce19e28d5d6)
 
