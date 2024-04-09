@@ -358,7 +358,7 @@ public class Tutorial {
 
 ### 3.6. Jpa Repository
 
-```java #6-7
+```java #1
 package com.bezkoder.spring.datajpa.repository;
 
 import java.util.List;
